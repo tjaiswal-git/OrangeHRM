@@ -1,182 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" total="6" passed="4">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="180954" started-at="2017-08-03T09:43:33Z" finished-at="2017-08-03T09:46:34Z">
+  <suite name="Suite" duration-ms="38310" started-at="2017-08-03T12:25:56Z" finished-at="2017-08-03T12:26:35Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="62016" started-at="2017-08-03T09:43:33Z" finished-at="2017-08-03T09:44:35Z">
-      <class name="com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials@685cb137]" name="setUp" is-config="true" duration-ms="11494" started-at="2017-08-03T15:13:33Z" finished-at="2017-08-03T15:13:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginWithCreadentials()[pri:0, instance:com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials@685cb137]" name="verifyLoginWithCreadentials" duration-ms="8874" started-at="2017-08-03T15:13:45Z" finished-at="2017-08-03T15:13:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginWithCreadentials -->
-        <test-method status="PASS" signature="verifyUserAccountdetails()[pri:0, instance:com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials@685cb137]" name="verifyUserAccountdetails" duration-ms="40902" started-at="2017-08-03T15:13:54Z" finished-at="2017-08-03T15:14:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyUserAccountdetails -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials@685cb137]" name="closeDriver" is-config="true" duration-ms="733" started-at="2017-08-03T15:14:35Z" finished-at="2017-08-03T15:14:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeDriver -->
-      </class> <!-- com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials -->
-    </test> <!-- Test -->
-    <test name="Test1" duration-ms="38116" started-at="2017-08-03T09:44:35Z" finished-at="2017-08-03T09:45:14Z">
-      <class name="com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials@5700d6b1]" name="setUp" is-config="true" duration-ms="12192" started-at="2017-08-03T15:14:35Z" finished-at="2017-08-03T15:14:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyUserLoginWithCreadentials()[pri:0, instance:com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials@5700d6b1]" name="verifyUserLoginWithCreadentials" duration-ms="25912" started-at="2017-08-03T15:14:48Z" finished-at="2017-08-03T15:15:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyUserLoginWithCreadentials -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials@5700d6b1]" name="closeDriver" is-config="true" duration-ms="11" started-at="2017-08-03T15:15:14Z" finished-at="2017-08-03T15:15:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeDriver -->
-      </class> <!-- com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials -->
-    </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="80801" started-at="2017-08-03T09:45:14Z" finished-at="2017-08-03T09:46:34Z">
+    <test name="Test2" duration-ms="38310" started-at="2017-08-03T12:25:56Z" finished-at="2017-08-03T12:26:35Z">
       <class name="com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@490ab905]" name="setUp" is-config="true" duration-ms="11698" started-at="2017-08-03T15:15:14Z" finished-at="2017-08-03T15:15:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@685cb137]" name="setUp" is-config="true" duration-ms="11178" started-at="2017-08-03T17:55:56Z" finished-at="2017-08-03T17:56:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyAdminLogin()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@490ab905]" name="verifyAdminLogin" duration-ms="5234" started-at="2017-08-03T15:15:25Z" finished-at="2017-08-03T15:15:30Z">
+        <test-method status="PASS" signature="verifyAdminLogin()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@685cb137]" name="verifyAdminLogin" duration-ms="5109" started-at="2017-08-03T17:56:07Z" finished-at="2017-08-03T17:56:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAdminLogin -->
-        <test-method status="FAIL" signature="verifyApprovalByAdmin()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@490ab905]" name="verifyApprovalByAdmin" duration-ms="33719" started-at="2017-08-03T15:15:30Z" finished-at="2017-08-03T15:16:04Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[Unable to locate element: {"method":"xpath","selector":"//span[text()='Leave List']"}
-Command duration or timeout: 30.08 seconds]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[text()='Leave List']"}
-Command duration or timeout: 30.08 seconds
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy7.getTagName(Unknown Source)
-	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
-	at com.orangeHRM.common.pageobjects.LoginAdminPage.leaveApproveByAdmin(LoginAdminPage.java:204)
-	at com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser.verifyApprovalByAdmin(TC003_AgainLoginAdminAndUser.java:42)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[text()='Leave List']"}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
-System info: host: 'IND-TJAISWAL', ip: '164.99.138.92', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
-Driver info: driver.version: unknown
-	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:11223)
-	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:792)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+        <test-method status="PASS" signature="verifyApprovalByAdmin()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@685cb137]" name="verifyApprovalByAdmin" duration-ms="13926" started-at="2017-08-03T17:56:13Z" finished-at="2017-08-03T17:56:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyApprovalByAdmin -->
-        <test-method status="FAIL" signature="verifyApproavlByUser()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@490ab905]" name="verifyApproavlByUser" duration-ms="30109" started-at="2017-08-03T15:16:04Z" finished-at="2017-08-03T15:16:34Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[Unable to locate element: {"method":"id","selector":"txtUsername"}
-Command duration or timeout: 30.11 seconds]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"txtUsername"}
-Command duration or timeout: 30.11 seconds
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:417)
-	at org.openqa.selenium.By$ById.findElement(By.java:218)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy7.clear(Unknown Source)
-	at com.orangeHRM.common.pageobjects.LoginUserPage.loginWithUserCredentials(LoginUserPage.java:72)
-	at com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser.verifyApproavlByUser(TC003_AgainLoginAdminAndUser.java:54)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"txtUsername"}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
-System info: host: 'IND-TJAISWAL', ip: '164.99.138.92', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
-Driver info: driver.version: unknown
-	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:11223)
-	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:792)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+        <test-method status="PASS" signature="verifyApproavlByUser()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@685cb137]" name="verifyApproavlByUser" duration-ms="8075" started-at="2017-08-03T17:56:26Z" finished-at="2017-08-03T17:56:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyApproavlByUser -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@490ab905]" name="closeDriver" is-config="true" duration-ms="29" started-at="2017-08-03T15:16:34Z" finished-at="2017-08-03T15:16:34Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser@685cb137]" name="closeDriver" is-config="true" duration-ms="8" started-at="2017-08-03T17:56:35Z" finished-at="2017-08-03T17:56:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->

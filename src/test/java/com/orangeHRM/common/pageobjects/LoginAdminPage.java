@@ -81,9 +81,11 @@ public class LoginAdminPage
 	@FindBy(xpath="//a[text()='Logout']")
 	WebElement logout;
 	
-	@FindBy(xpath="//span[text()='Leave List']")
+	@FindBy(xpath=".//*[@id='menu_leave_viewLeaveList']")
 	WebElement leaveList;
 	
+	@FindBy(id="select_leave_action_7")
+	WebElement leaveActionID;
 	
 
 @FindBy(id="select_leave_action_4")
@@ -202,11 +204,11 @@ public class LoginAdminPage
 	{   Thread.sleep(2000);
 		leaveBtn.click();
 		logger.info("leave module btn is clicked..");
-	
+		Thread.sleep(1000);
 	    leaveList.click();
 		logger.info("leave list has clicked..");
 		Thread.sleep(1500);
-		Select select=new Select(leaveList);
+		Select select=new Select(leaveActionID);
 		select.selectByVisibleText("Approve");
 		Thread.sleep(1500);
 		btnSaveLoginDetails.click();

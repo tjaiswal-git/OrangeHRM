@@ -31,95 +31,18 @@ div.shootout {padding:2em;border:3px #4854A8 solid}
 <body>
 <table cellspacing="0" cellpadding="0" class="result">
 <tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
-<tr><td style="text-align:left;padding-right:2em">Test</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">62.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
-<tr class="stripe"><td style="text-align:left;padding-right:2em">Test1</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">38.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
-<tr><td style="text-align:left;padding-right:2em">Test2</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi_attn">2</td><td class="numi">80.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
-<tr class="total"><td>Total</td>
-<td class="numi">4</td><td class="numi">4</td><td class="numi">0</td><td class="numi_attn">2</td><td class="numi">181.0 seconds</td><td colspan="2">&nbsp;</td></tr>
+<tr><td style="text-align:left;padding-right:2em">Test2</td><td class="numi">3</td><td class="numi">3</td><td class="numi">0</td><td class="numi">0</td><td class="numi">38.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
 </table>
 <table cellspacing="0" cellpadding="0" class="passed" id="summary">
 <tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
-<tr><th colspan="4">Test &#8212; passed</th></tr>
-<tr class="passedodd"><td rowspan="2">com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials</td><td><a href="#m1"><b>verifyLoginWithCreadentials</b>  </a></td><td class="numi">1</td><td>1501753425401</td><td class="numi">8874</td></tr><tr class="passedodd"><td><a href="#m2"><b>verifyUserAccountdetails</b>  </a></td><td class="numi">1</td><td>1501753434276</td><td class="numi">40902</td></tr>
-<tr><th colspan="4">Test1 &#8212; passed</th></tr>
-<tr class="passedodd"><td rowspan="1">com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials</td><td><a href="#m3"><b>verifyUserLoginWithCreadentials</b>  </a></td><td class="numi">1</td><td>1501753488118</td><td class="numi">25912</td></tr>
-<tr><th colspan="4">Test2 &#8212; failed</th></tr>
-<tr class="failedodd"><td rowspan="2">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser</td><td><a href="#m4"><b>verifyApprovalByAdmin</b>  </a></td><td class="numi">1</td><td>1501753530983</td><td class="numi">33719</td></tr><tr class="failedodd"><td><a href="#m5"><b>verifyApproavlByUser</b>  </a></td><td class="numi">1</td><td>1501753564709</td><td class="numi">30109</td></tr>
 <tr><th colspan="4">Test2 &#8212; passed</th></tr>
-<tr class="passedodd"><td rowspan="1">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser</td><td><a href="#m6"><b>verifyAdminLogin</b>  </a></td><td class="numi">1</td><td>1501753525748</td><td class="numi">5234</td></tr>
+<tr class="passedodd"><td rowspan="3">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser</td><td><a href="#m1"><b>verifyAdminLogin</b>  </a></td><td class="numi">1</td><td>1501763167945</td><td class="numi">5109</td></tr><tr class="passedodd"><td><a href="#m2"><b>verifyApprovalByAdmin</b>  </a></td><td class="numi">1</td><td>1501763173057</td><td class="numi">13926</td></tr><tr class="passedodd"><td><a href="#m3"><b>verifyApproavlByUser</b>  </a></td><td class="numi">1</td><td>1501763186984</td><td class="numi">8075</td></tr>
 </table>
-<h1>Test</h1>
-<h2 id="m1">com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials:verifyUserAccountdetails</h2>
-<p class="totop"><a href="#summary">back to summary</a></p>
-<h2 id="m2">com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials:verifyLoginWithCreadentials</h2>
-<p class="totop"><a href="#summary">back to summary</a></p>
-<h1>Test1</h1>
-<h2 id="m3">com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials:verifyUserLoginWithCreadentials</h2>
-<p class="totop"><a href="#summary">back to summary</a></p>
 <h1>Test2</h1>
-<h2 id="m4">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyApproavlByUser</h2>
-<div style="padding-left:3em">
-<p>Unable to locate element: {&quot;method&quot;:&quot;id&quot;,&quot;selector&quot;:&quot;txtUsername&quot;}
-Command duration or timeout: 30.11 seconds</p>
-sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at java.lang.reflect.Constructor.newInstance(Unknown Source)
-<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:417)
-<br/>at org.openqa.selenium.By$ById.findElement(By.java:218)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-<br/>at com.sun.proxy.$Proxy7.clear(Unknown Source)
-<br/>at com.orangeHRM.common.pageobjects.LoginUserPage.loginWithUserCredentials(LoginUserPage.java:72)
-<br/>at com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser.verifyApproavlByUser(TC003_AgainLoginAdminAndUser.java:54)
-<br/>25 lines not shown
-<p>Caused by Unable to locate element: {&quot;method&quot;:&quot;id&quot;,&quot;selector&quot;:&quot;txtUsername&quot;}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.1.0&apos;, revision: &apos;b94c902&apos;, time: &apos;2017-02-16 12:21:31 -0800&apos;
-System info: host: &apos;IND-TJAISWAL&apos;, ip: &apos;164.99.138.92&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
-Driver info: driver.version: unknown</p>
-&lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:11223)
-<br/>at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:792)
-<br/>1 lines not shown
-</div>
+<h2 id="m1">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyApproavlByUser</h2>
 <p class="totop"><a href="#summary">back to summary</a></p>
-<h2 id="m5">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyApprovalByAdmin</h2>
-<div style="padding-left:3em">
-<p>Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[text()=&apos;Leave List&apos;]&quot;}
-Command duration or timeout: 30.08 seconds</p>
-sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-<br/>at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-<br/>at java.lang.reflect.Constructor.newInstance(Unknown Source)
-<br/>at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-<br/>at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
-<br/>at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-<br/>at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
-<br/>at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-<br/>at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-<br/>at com.sun.proxy.$Proxy7.getTagName(Unknown Source)
-<br/>at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
-<br/>at com.orangeHRM.common.pageobjects.LoginAdminPage.leaveApproveByAdmin(LoginAdminPage.java:204)
-<br/>at com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser.verifyApprovalByAdmin(TC003_AgainLoginAdminAndUser.java:42)
-<br/>25 lines not shown
-<p>Caused by Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[text()=&apos;Leave List&apos;]&quot;}
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.1.0&apos;, revision: &apos;b94c902&apos;, time: &apos;2017-02-16 12:21:31 -0800&apos;
-System info: host: &apos;IND-TJAISWAL&apos;, ip: &apos;164.99.138.92&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
-Driver info: driver.version: unknown</p>
-&lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:11223)
-<br/>at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Users/tjaiswal/AppData/Local/Temp/anonymous19955787112051894webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:792)
-<br/>1 lines not shown
-</div>
+<h2 id="m2">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyAdminLogin</h2>
 <p class="totop"><a href="#summary">back to summary</a></p>
-<h2 id="m6">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyAdminLogin</h2>
+<h2 id="m3">com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser:verifyApprovalByAdmin</h2>
 <p class="totop"><a href="#summary">back to summary</a></p>
 </body></html>
