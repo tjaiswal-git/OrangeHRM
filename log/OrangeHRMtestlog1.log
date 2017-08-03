@@ -1,0 +1,725 @@
+2017-08-03 02:49:06,729 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 02:49:06,960 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 02:49:06,981 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 02:49:07,398 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 02:49:07,603 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered null
+2017-08-03 02:49:09,953 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 02:50:58,357 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 02:50:58,473 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 02:50:58,495 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 02:50:58,731 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 02:50:58,846 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered null
+2017-08-03 02:51:01,125 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 02:52:58,585 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 02:52:58,657 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 02:52:58,679 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 02:54:26,408 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 02:54:26,481 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 02:54:26,738 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 02:54:27,165 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 02:54:27,731 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered null
+2017-08-03 02:54:29,939 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 02:55:56,829 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 02:55:56,907 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 02:55:56,931 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 02:55:57,183 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 02:55:57,308 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 02:56:02,186 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 02:56:02,402 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 02:56:05,625 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 02:56:12,415 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:05:54,617 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:05:54,695 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:05:54,716 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:05:55,105 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:05:55,336 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:05:59,962 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:06:00,023 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:06:03,226 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:06:04,870 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:06:06,495 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:06:08,190 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:06:09,823 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:06:11,472 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:06:11,576 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:06:14,957 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:08:07,006 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:08:07,071 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:08:07,119 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:08:07,381 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:08:07,908 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:08:12,588 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:08:50,353 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:08:50,424 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:08:50,448 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:08:50,717 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:08:51,014 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:08:55,615 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:08:55,678 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:08:59,050 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:09:00,706 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:09:02,343 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:09:04,051 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:09:05,678 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:09:07,313 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:09:07,420 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:09:11,280 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:17:08,611 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:17:08,915 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:17:08,942 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:17:09,326 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:17:09,699 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:17:14,748 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:17:14,954 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:17:18,377 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:17:20,025 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:17:21,657 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:17:23,369 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:17:24,993 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:17:26,640 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:17:26,743 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:17:30,530 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:24:24,005 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:24:24,070 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:24:24,091 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:24:24,487 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:24:24,739 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:24:30,107 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:24:30,179 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:24:33,770 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:24:35,408 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:24:37,053 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:24:38,741 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:24:40,375 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:24:42,032 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:24:42,134 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:24:46,291 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:26:10,812 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:26:10,887 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:26:10,909 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:26:11,149 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:26:11,280 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:26:15,953 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:26:16,125 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:26:19,534 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:26:21,196 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:26:22,823 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:26:24,522 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:26:26,154 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:26:27,791 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:26:27,894 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:26:31,852 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:35:16,143 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:35:16,203 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:35:16,229 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:35:37,869 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:35:37,950 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:35:37,970 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:35:38,268 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:35:38,625 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:35:43,382 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:35:43,442 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:35:46,611 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:35:48,265 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:35:50,018 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:35:51,715 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:35:53,362 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:35:54,993 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:35:55,097 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:35:58,974 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 03:40:45,088 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 03:40:45,159 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 03:40:45,182 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 03:40:45,434 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 03:40:45,818 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 03:40:51,008 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 03:40:51,072 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 03:40:54,376 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 03:40:56,015 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 03:40:57,656 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 03:40:59,330 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 03:41:00,974 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 03:41:02,615 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 03:41:02,715 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 03:41:06,577 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 10:19:25,470 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 10:19:25,520 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 10:19:25,529 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 10:19:25,708 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 10:19:25,779 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 10:19:30,231 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 10:19:30,259 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 10:19:33,527 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 10:19:35,112 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 10:19:36,695 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 10:19:38,308 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 10:19:39,904 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 10:19:41,510 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 10:19:41,579 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 10:19:45,295 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 10:33:44,003 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 10:33:44,061 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 10:33:44,076 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 10:33:44,227 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 10:33:44,296 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 10:33:48,792 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 10:33:48,832 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent 
+2017-08-03 10:33:52,097 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 10:33:53,684 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 10:33:55,267 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 10:33:56,888 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 10:33:58,492 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 10:34:00,097 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 10:34:00,162 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 10:34:03,809 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 10:41:12,239 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 10:41:12,302 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 10:41:12,311 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 10:41:12,467 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 10:41:12,535 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 10:41:17,368 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 10:41:22,637 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 10:41:24,239 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 10:41:25,828 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 10:41:27,469 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 10:41:29,060 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 10:41:30,659 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 10:41:30,721 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 10:41:34,332 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 10:41:36,898 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 11:36:45,208 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 11:36:45,286 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 11:36:45,296 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 11:36:45,457 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 11:36:45,523 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 11:36:50,732 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 11:36:54,148 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 11:36:54,190 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 11:36:55,799 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 11:36:57,394 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 11:36:59,016 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 11:37:00,596 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 11:37:02,169 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 11:37:02,232 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 11:37:05,943 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 11:48:42,772 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 11:48:42,843 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 11:48:42,858 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 11:48:43,029 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 11:48:43,096 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 11:48:48,145 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 11:48:51,686 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 11:48:51,719 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 11:48:53,310 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 11:48:54,895 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 11:48:56,525 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 11:48:58,113 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 11:48:59,701 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 11:48:59,770 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 11:49:03,878 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 11:55:01,368 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 11:55:01,426 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 11:55:01,438 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 11:55:01,600 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 11:55:01,666 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 11:55:06,114 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 11:55:09,660 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 11:55:09,706 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 11:55:11,308 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 11:55:12,903 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 11:55:14,514 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 11:55:16,123 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 11:55:17,729 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 11:55:17,796 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 11:55:21,444 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:00:05,300 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:00:05,355 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:00:05,365 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:00:05,514 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:00:05,582 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:00:10,709 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:00:14,315 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:00:14,344 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:00:15,934 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:00:17,515 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:00:19,146 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:00:20,739 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:00:22,317 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:00:22,378 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:00:26,175 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:03:21,626 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:03:21,704 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:03:21,717 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:03:21,876 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:03:21,942 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:03:26,686 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:04:14,744 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:04:14,830 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:04:14,843 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:04:15,010 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:04:15,109 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:04:19,997 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:04:23,526 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:04:23,557 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:04:25,157 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:04:26,736 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:04:28,358 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:04:29,952 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:04:31,524 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:04:31,585 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:04:35,750 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:13:03,469 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:13:03,519 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:13:03,532 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:13:03,695 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:13:03,762 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:13:10,036 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:13:13,642 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:13:13,671 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:13:15,268 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:13:16,868 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:13:18,473 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:13:20,068 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:13:21,661 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:13:21,731 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:13:26,155 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:13:33,997 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:13:35,192 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:13:40,274 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:13:45,611 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:13:48,725 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:16:28,018 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:16:28,088 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:16:28,103 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:16:28,253 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:16:28,321 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:16:33,324 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:16:36,488 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:16:36,519 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:16:38,125 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:16:39,720 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:16:41,335 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:16:42,937 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:16:44,520 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:16:44,585 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:16:48,310 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:16:56,165 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:16:57,323 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:17:02,539 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:17:07,814 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:17:10,917 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:27:10,562 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:27:10,622 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:27:10,636 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:27:10,806 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:27:10,871 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:27:15,799 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:27:19,304 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:27:19,345 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:27:20,956 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:27:22,539 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:27:24,185 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:27:25,767 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:27:27,362 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:27:27,429 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:27:31,050 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:27:38,895 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:27:40,065 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:27:45,251 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:27:50,542 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:27:53,632 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:31:06,194 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:31:06,250 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:31:06,263 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:31:06,423 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:31:06,498 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:31:11,423 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:31:14,552 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:31:14,587 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:31:16,193 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:31:17,788 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:31:19,404 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:31:20,983 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:31:22,569 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:31:22,645 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:31:26,279 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:31:34,197 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:31:35,421 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:31:40,568 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:31:45,878 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:31:48,981 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:31:56,894 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 12:34:39,283 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:34:39,343 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:34:39,354 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:34:39,541 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:34:39,607 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:34:44,578 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:35:21,038 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:35:21,136 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:35:21,149 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:35:21,301 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:35:21,370 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:35:26,392 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:35:30,382 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:35:30,410 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:35:32,017 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:35:33,600 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:35:35,266 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:35:36,863 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:35:38,457 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:35:38,524 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:35:45,220 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:35:53,127 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:35:53,551 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:35:58,748 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:36:04,057 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:36:07,191 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:36:15,184 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 12:37:53,753 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:37:53,827 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:37:53,838 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:38:01,808 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 12:38:06,112 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:38:06,172 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:38:06,185 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:38:06,368 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:38:06,435 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:38:11,503 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:38:14,756 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:38:14,792 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:38:16,391 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:38:17,958 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:38:19,599 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:38:21,211 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:38:22,803 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:38:22,870 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:38:26,500 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:38:34,398 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 12:38:35,551 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 12:38:37,808 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:38:37,877 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:38:37,893 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:38:40,712 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 12:38:45,328 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 12:38:46,013 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 12:38:49,133 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 12:38:49,922 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:38:49,992 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:38:50,014 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:38:50,273 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:38:50,377 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:38:55,528 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:38:57,161 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 12:38:58,994 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:38:59,034 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:39:00,666 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:39:02,238 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:39:03,843 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:39:38,286 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:39:38,342 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:39:38,354 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:39:44,598 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 12:39:48,420 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:39:48,495 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:39:48,505 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:39:48,653 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:39:48,714 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:43:27,569 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:43:27,624 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:43:27,637 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:43:33,901 [TestNG] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 12:43:37,148 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:43:37,207 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:43:37,219 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:43:41,611 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 12:48:08,945 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:48:09,000 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:48:09,013 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:48:15,730 [TestNG] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 12:48:20,338 [TestNG] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 12:48:20,393 [TestNG] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 12:48:20,401 [TestNG] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 12:48:20,572 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 12:48:20,671 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 12:48:25,684 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 12:48:29,069 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 12:48:29,096 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 12:48:34,207 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 12:48:40,736 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 12:48:42,439 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 12:48:44,034 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 12:48:45,650 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 12:48:47,254 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 12:48:48,819 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 12:48:48,883 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 12:48:51,827 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 12:48:59,909 [TestNG] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 13:04:38,787 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 13:04:38,848 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 13:04:38,857 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 13:04:39,005 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 13:04:39,074 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 13:04:44,440 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 13:04:49,042 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 13:04:49,069 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 13:04:50,662 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 13:04:52,282 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 13:04:53,899 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 13:04:55,482 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 13:04:57,068 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 13:04:57,131 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 13:05:00,986 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 13:05:09,059 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 13:05:10,247 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 13:05:15,394 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 13:05:20,786 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 13:05:23,913 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 13:05:31,887 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 13:05:38,907 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 13:05:43,238 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 13:05:43,299 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 13:05:43,324 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 13:05:48,256 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 13:05:52,247 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 13:08:28,113 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 13:08:28,171 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 13:08:28,183 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 13:08:28,337 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 13:08:28,404 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 13:08:33,340 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 13:08:36,818 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 13:08:36,849 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 13:08:38,450 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 13:08:40,040 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 13:08:41,661 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 13:08:43,251 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 13:08:44,844 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 13:08:44,909 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 13:08:48,672 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 13:08:56,574 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 13:08:57,016 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 13:09:02,203 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 13:09:07,496 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 13:09:10,585 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 13:09:18,559 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 13:09:24,514 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 13:09:29,579 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 13:09:29,625 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 13:09:29,638 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 13:09:34,774 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 13:09:38,719 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 13:09:40,620 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply btn pressing...
+2017-08-03 14:29:05,846 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:29:05,911 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:29:05,921 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:29:06,068 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 14:29:06,137 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 14:29:11,282 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 14:29:14,746 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 14:29:14,781 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 14:29:16,365 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 14:29:17,949 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 14:29:19,553 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 14:29:21,170 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 14:29:22,761 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 14:29:22,825 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 14:29:26,599 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 14:29:34,562 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 14:29:35,817 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 14:29:41,013 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 14:29:46,321 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 14:29:49,422 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 14:29:57,389 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 14:30:04,140 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 14:30:06,861 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:30:06,922 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:30:06,938 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:30:12,216 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 14:34:26,838 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:34:26,893 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:34:26,909 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:34:27,063 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 14:34:27,131 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 14:34:31,979 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 14:34:34,686 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 14:34:35,555 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 14:34:37,151 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 14:34:38,718 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 14:34:40,332 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 14:34:41,926 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 14:34:43,498 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 14:34:43,562 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 14:34:49,473 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 14:34:57,284 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 14:34:58,458 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 14:35:03,629 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 14:35:08,919 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 14:35:12,036 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 14:35:20,013 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 14:35:26,898 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 14:35:29,571 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:35:29,633 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:35:29,646 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:35:34,950 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 14:47:29,378 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:47:29,432 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:47:29,445 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:47:29,598 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 14:47:29,667 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 14:47:34,242 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 14:47:37,490 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 14:47:37,524 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 14:47:39,131 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 14:47:40,724 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 14:47:42,343 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 14:47:43,956 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 14:47:45,560 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 14:47:45,630 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 14:47:49,308 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 14:47:57,220 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 14:47:57,665 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 14:48:02,826 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 14:48:08,151 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 14:48:11,258 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 14:48:19,290 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 14:48:26,161 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 14:48:29,488 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:48:29,538 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:48:29,549 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:48:34,205 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 14:57:00,361 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:57:00,409 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:57:00,419 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:57:00,594 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 14:57:00,688 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 14:57:11,884 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 14:57:19,923 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 14:57:21,213 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 14:57:22,814 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 14:57:24,407 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 14:57:26,024 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 14:57:27,608 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 14:57:29,214 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 14:57:29,276 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 14:57:38,139 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 14:57:50,141 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 14:57:51,753 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 14:57:57,044 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 14:58:02,402 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 14:58:05,522 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 14:58:13,492 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 14:58:21,851 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 14:58:30,384 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 14:58:30,438 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 14:58:30,449 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 14:58:38,598 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 14:58:43,178 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - leave module btn is clicked....
+2017-08-03 15:00:24,109 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave btn is clicked..
+2017-08-03 15:01:54,973 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:01:55,033 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:01:55,045 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:01:55,194 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 15:01:55,263 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 15:02:08,880 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 15:02:16,314 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 15:02:16,345 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 15:02:17,962 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 15:02:19,560 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 15:02:21,196 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 15:02:22,758 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 15:02:24,337 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 15:02:24,399 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 15:02:28,313 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 15:02:47,054 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 15:02:48,615 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 15:02:53,804 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 15:02:59,127 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 15:03:02,256 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 15:03:09,476 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 15:03:23,416 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 15:03:35,858 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:03:35,908 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:03:35,919 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:03:50,016 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 15:03:54,908 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - leave module btn is clicked....
+2017-08-03 15:03:57,761 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave btn is clicked..
+2017-08-03 15:03:58,964 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 15:04:02,026 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave header text has returned Apply Leave
+2017-08-03 15:04:07,309 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply btn pressing...
+2017-08-03 15:04:12,258 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - User has successfully logout from session...
+2017-08-03 15:04:12,258 [main] INFO com.orangeHRM.testbase.TestBase - Logout has successfully done from UserAccount!!
+2017-08-03 15:11:16,649 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:11:16,708 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:11:16,720 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:11:16,878 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 15:11:16,963 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 15:11:23,094 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 15:11:27,791 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 15:11:27,819 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 15:11:29,419 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 15:11:31,055 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 15:11:32,688 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 15:11:34,272 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 15:11:35,902 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 15:11:35,965 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 15:11:39,659 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 15:11:47,492 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 15:11:48,701 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 15:11:53,964 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 15:11:59,358 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 15:12:02,489 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 15:12:10,441 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 15:12:17,390 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 15:12:20,640 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:12:20,711 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:12:20,724 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:12:25,768 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 15:12:28,782 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - leave module btn is clicked....
+2017-08-03 15:12:31,387 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave btn is clicked..
+2017-08-03 15:12:32,515 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 15:12:35,585 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave header text has returned Apply Leave
+2017-08-03 15:12:40,871 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply btn pressing...
+2017-08-03 15:12:45,810 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - User has successfully logout from session...
+2017-08-03 15:12:45,811 [main] INFO com.orangeHRM.testbase.TestBase - Logout has successfully done from UserAccount!!
+2017-08-03 15:13:45,327 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:13:45,383 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:13:45,395 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:13:45,557 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 15:13:45,646 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 15:13:50,679 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 15:13:54,240 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add employee option is clicked..
+2017-08-03 15:13:54,273 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - addEmployee assert has sent Add Employee
+2017-08-03 15:13:55,875 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - first name is entered..
+2017-08-03 15:13:57,467 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - last name is entered..
+2017-08-03 15:13:59,153 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - check login box..
+2017-08-03 15:14:00,740 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accUserName is entered..
+2017-08-03 15:14:02,332 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - accPassword is entered..
+2017-08-03 15:14:02,397 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - acc confirm password is entered..
+2017-08-03 15:14:06,056 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Add Employee login details has benn saved..
+2017-08-03 15:14:13,973 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Hover option has come of by mouse..
+2017-08-03 15:14:14,396 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - add leave entitlement option is clicked 
+2017-08-03 15:14:19,543 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - EmpName has entered..
+2017-08-03 15:14:24,816 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Entitlement value has entered..
+2017-08-03 15:14:27,937 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Save btn is clicked...
+2017-08-03 15:14:35,177 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - logout has been successfully done..
+2017-08-03 15:14:42,714 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 15:14:48,058 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:14:48,106 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:14:48,118 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:14:52,803 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - user is successfully login..
+2017-08-03 15:14:54,430 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - leave module btn is clicked....
+2017-08-03 15:14:57,498 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave btn is clicked..
+2017-08-03 15:14:58,626 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - String date is selected.. 3
+2017-08-03 15:15:01,698 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply leave header text has returned Apply Leave
+2017-08-03 15:15:09,080 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - Apply btn pressing...
+2017-08-03 15:15:14,029 [main] INFO com.orangeHRM.common.pageobjects.LoginUserPage - User has successfully logout from session...
+2017-08-03 15:15:14,030 [main] INFO com.orangeHRM.testbase.TestBase - Logout has successfully done from UserAccount!!
+2017-08-03 15:15:22,089 [main] INFO com.orangeHRM.testbase.TestBase - Firefox has launching...
+2017-08-03 15:15:25,673 [main] INFO com.orangeHRM.testbase.TestBase - url has lauching..
+2017-08-03 15:15:25,736 [main] INFO com.orangeHRM.testbase.TestBase - Now Browser is maximize...
+2017-08-03 15:15:25,748 [main] INFO com.orangeHRM.testbase.TestBase - Page loading.....
+2017-08-03 15:15:25,911 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin User Name is entered Admin
+2017-08-03 15:15:26,009 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin password is Entered admin
+2017-08-03 15:15:30,981 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - Admin login is success...
+2017-08-03 15:15:33,111 [main] INFO com.orangeHRM.common.pageobjects.LoginAdminPage - leave list has clicked..
