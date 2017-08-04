@@ -10,6 +10,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
+import com.gargoylesoftware.htmlunit.ElementNotFoundException;
+
 public class LoginAdminPage
 {
     WebDriver driver;
@@ -84,11 +86,11 @@ public class LoginAdminPage
 	@FindBy(xpath=".//*[@id='menu_leave_viewLeaveList']")
 	WebElement leaveList;
 	
-	@FindBy(id="select_leave_action_7")
+	@FindBy(xpath="//select[starts-with(@id, 'select_leave')]")
 	WebElement leaveActionID;
 	
 
-@FindBy(id="select_leave_action_4")
+    @FindBy(id="select_leave_action_4")
 	WebElement selLeaveAction;
 	
 	
@@ -201,7 +203,9 @@ public class LoginAdminPage
 	}
 	
 	public void leaveApproveByAdmin() throws InterruptedException
-	{   Thread.sleep(2000);
+	{   
+		try{
+		Thread.sleep(2000);
 		leaveBtn.click();
 		logger.info("leave module btn is clicked.. "+leaveBtn.toString());
 		Thread.sleep(1000);
@@ -213,7 +217,11 @@ public class LoginAdminPage
 		Thread.sleep(1500);
 		btnSaveLoginDetails.click();
 		logger.info("leave Approlaval btn has clicked.. "+btnSaveLoginDetails.toString());
-		
+		}
+		catch (ElementNotFoundException e) {
+			// TODO: handle exception
+			logger.info("Element is able to found excepton "+e.getMessage());
+		}
 	}
 	
 	public void logoutByAdmin() throws InterruptedException
