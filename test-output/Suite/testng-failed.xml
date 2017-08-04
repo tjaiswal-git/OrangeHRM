@@ -3,6 +3,18 @@
 <suite name="Failed suite [Suite]">
   <test name="Test2(failed)">
     <classes>
+      <class name="com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials">
+        <methods>
+          <include name="setUp"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.orangeHRM.commons.testscripts.TC001_VerifyAdminLoginCredentials -->
+      <class name="com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials">
+        <methods>
+          <include name="setUp"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.orangeHRM.commons.testscripts.TC002_VerifyUserLoginCredentials -->
       <class name="com.orangeHRM.commons.testscripts.TC003_AgainLoginAdminAndUser">
         <methods>
           <include name="closeDriver"/>

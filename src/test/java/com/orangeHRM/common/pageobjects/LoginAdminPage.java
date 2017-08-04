@@ -121,31 +121,31 @@ public class LoginAdminPage
 		pimObject.click();
 		Thread.sleep(1000);
 		addEmployee.click();
-		logger.info("add employee option is clicked..");
+		logger.info("add employee option is clicked.." +addEmployee.toString());
 	}
 	
 	public void addEmployeeOption(String firstName,String lastName,String accUserName,String accUserPass,String accRePass) throws InterruptedException
 	{  
 		Thread.sleep(1500);
 		Addfirstname.sendKeys(firstName);
-		logger.info("first name is entered..");
+		logger.info("first name is entered.." +Addfirstname.toString());
 		Thread.sleep(1500);
 		AddlastName.sendKeys(lastName);
-		logger.info("last name is entered..");
+		logger.info("last name is entered.."+AddlastName.toString());
 		Thread.sleep(1500);
 		checkLogincheckBox.click();
-		logger.info("check login box..");
+		logger.info("check login box.. "+checkLogincheckBox.toString());
 		Thread.sleep(1500);
 	    this.accUserName.sendKeys(accUserName);
-	    logger.info("accUserName is entered..");
+	    logger.info("accUserName is entered.." +accUserName.toString());
 		Thread.sleep(1500);
 		this.accUserPassword.sendKeys(accUserPass);
-		logger.info("accPassword is entered..");
+		logger.info("accPassword is entered.. "+accUserPassword.toString());
 		this.accRePassword.sendKeys(accRePass);
-		logger.info("acc confirm password is entered..");
+		logger.info("acc confirm password is entered.. "+accRePassword.toString());
 		Thread.sleep(1500);
 	    btnSaveLoginDetails.click();
-		logger.info("Add Employee login details has benn saved..");
+		logger.info("Add Employee login details has benn saved.. "+btnSaveLoginDetails.toString());
 		Thread.sleep(2500);
 	}
 	
@@ -157,10 +157,10 @@ public class LoginAdminPage
 		
 		Actions builder = new Actions(driver);
 		builder.moveToElement(HovermenuLeaveEntitlement).perform();
-		logger.info("Hover option has come of by mouse..");
+		logger.info("Hover option has come of by mouse.. "+HovermenuLeaveEntitlement.toString());
 		By locator = By.id("menu_leave_addLeaveEntitlement");
 		driver.findElement(locator).click(); 
-	    logger.info("add leave entitlement option is clicked ");
+	    logger.info("add leave entitlement option is clicked "+locator.toString());
 		Thread.sleep(3000);
 	    //entitlementsEmpName.clear();
         Thread.sleep(2000);
@@ -175,15 +175,15 @@ public class LoginAdminPage
 		//entitlementsValue.clear();
 		Thread.sleep(3000);
 		entitlementsValue.sendKeys(value);
-		logger.info("Entitlement value has entered..");
+		logger.info("Entitlement value has entered.. "+entitlementsValue.toString());
 		Thread.sleep(3000);
 		btnSaveLoginDetails.click();
-		logger.info("Save btn is clicked...");
+		logger.info("Save btn is clicked..." +btnSaveLoginDetails.toString());
 		Thread.sleep(5000);
 		logoutMenu.click();
 		Thread.sleep(2000);
 		logout.click();
-		logger.info("logout has been successfully done..");
+		logger.info("logout has been successfully done.. "+logout.toString());
 	}
 	
 	catch (ElementNotInteractableException e) {
@@ -203,16 +203,16 @@ public class LoginAdminPage
 	public void leaveApproveByAdmin() throws InterruptedException
 	{   Thread.sleep(2000);
 		leaveBtn.click();
-		logger.info("leave module btn is clicked..");
+		logger.info("leave module btn is clicked.. "+leaveBtn.toString());
 		Thread.sleep(1000);
 	    leaveList.click();
-		logger.info("leave list has clicked..");
+		logger.info("leave list has clicked.. "+leaveList.toString());
 		Thread.sleep(1500);
 		Select select=new Select(leaveActionID);
 		select.selectByVisibleText("Approve");
 		Thread.sleep(1500);
 		btnSaveLoginDetails.click();
-		logger.info("leave Approlaval btn has clicked..");
+		logger.info("leave Approlaval btn has clicked.. "+btnSaveLoginDetails.toString());
 		
 	}
 	
@@ -222,6 +222,6 @@ public class LoginAdminPage
 		logoutMenu.click();
 		Thread.sleep(1000);
 		logout.click();
-		logger.info("Admin has successfully logout..");
+		logger.info("Admin has successfully logout.. "+logout.toString());
 	}
 }

@@ -75,17 +75,17 @@ public class LoginUserPage
 		userLoginPass.sendKeys(userPass);
 		Thread.sleep(2000);
 		userLoginBtn.click();
-		logger.info("user is successfully login..");
+		logger.info("user is successfully login.. "+userLoginBtn.toString());
 		}
 	
 	 public void userLeaveDetails() throws InterruptedException
 	 {      Thread.sleep(1500);
 	        //String textt=ApplyLeaveHeaderText(); 
 	        leaveModule.click();
-			logger.info("leave module btn is clicked....");
+			logger.info("leave module btn is clicked.... "+leaveModule.toString());
 			Thread.sleep(1000);
 			applyLeaveBtn.click();
-			logger.info("Apply leave btn is clicked..");
+			logger.info("Apply leave btn is clicked.. "+applyLeaveBtn.toString());
 			
 	        Select select=new Select(selLeaveType);
 			select.selectByVisibleText("Vacation US");
@@ -105,7 +105,7 @@ public class LoginUserPage
 		welcomeMenu.click();
 		Thread.sleep(2000);
 		logoutUser.click();
-		logger.info("User has successfully logout from session...");
+		logger.info("User has successfully logout from session... "+logoutUser.toString());
 		
 	}
 	
@@ -116,7 +116,7 @@ public class LoginUserPage
 		logger.info("Apply leave header text has returned "+applyLeavespanText);
 		Thread.sleep(4000);
 		applyBtn.click();
-		logger.info("Apply btn pressing...");
+		logger.info("Apply btn pressing... "+applyBtn.toString());
 		return applyLeavespanText;
 		
 	}
@@ -125,13 +125,13 @@ public class LoginUserPage
 	{
 		Thread.sleep(2000);
 		myLeaveUser.click();
-		logger.info("leave btn has clicked.. on user side..");
+		logger.info("leave btn has clicked.. on user side.. "+myLeaveUser.toString());
 	}
 	
 	public String myLeaveApproval_For_User() throws InterruptedException
 	{   Thread.sleep(2000);
 		String scheduledLeaveText=scheduledLeaveUser.getText();
-		logger.info("Scheduled leave has passed..");
+		logger.info("Scheduled leave has passed.. "+scheduledLeaveUser.toString());
 		return scheduledLeaveText;
 		
 	}
