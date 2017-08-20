@@ -1,4 +1,4 @@
-# OrangeHRM-Automation with Selenium/Java
+﻿# OrangeHRM-Automation with Selenium/Java
 
 1) It is maven based project that can handle all the pom.xml dependency.
 2) I used for POM based Structure to maintain all locators in webPage.
@@ -24,3 +24,4 @@ Step 7: Logout from the Application and Login again as “Admin”.
 Step 8: Navigate to Leave à Leave List. Scroll below to find the employee created and from Actions column Select as “Approve” and click save.
 Step 9: Logout from the Application and Login again as created in Step 03.
 Step 10: Navigate to Leave à My Leave. Scroll below to find the Leave that you applied and Assert the status column as “Scheduled(1.00)”.
+sdsd
